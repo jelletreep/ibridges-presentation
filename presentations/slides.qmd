@@ -24,9 +24,10 @@ Experiences from the animal sounds project
 -->> Yoda
 :::
 
-## Methods of interacting with the data in 2019
+## Working with Yoda in 2019
 
 ::: {.theme-section}
+- Windows (2x) and MacOS (2x)
 - Upload by researcher via the Portal
 - Network drive (webdav mount)
 - icommands using WSL
@@ -51,7 +52,6 @@ Experiences from the animal sounds project
 - Facilitates a gradual learning experience
 
 :::
-
 
 # {data-background-color="#FFCD00"}
 
