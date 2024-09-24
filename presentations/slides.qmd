@@ -1,0 +1,58 @@
+--- 
+format: 
+  revealjs:
+    theme: themes/uu.scss
+    logo: images/UU_logo_2021_EN_RGB.png
+    footer: "Jelle Treep"
+---
+
+# iBridges from a user perspective {data-background-color="#FFCD00"}
+
+::: {.r-stack}
+Experiences from the animal sounds project
+:::
+
+::: {.footer}
+:::
+
+## Animal sounds project
+::: {.theme-section}
+- 2 TB of audio data collected in Central Africa by researcher
+- Transferred by plane on external hard drives
+- Preprocessing and training ML models by 3 engineers
+
+-->> Yoda
+:::
+
+## Methods of interacting with the data in 2019
+
+::: {.theme-section}
+- Upload by researcher via the Portal
+- Network drive (webdav mount)
+- icommands using WSL
+:::
+
+## 2022: Surf Research cloud
+::: {.theme-section}
+
+- Ubuntu workspace
+- icommands
+- good internet connection
+
+:::
+
+## 2024: iBridges
+
+::: {.theme-section}
+
+- Quick setup
+- Usable by everyone in the project
+- User documentation written for 'lay audience'
+- Facilitates a gradual learning experience
+
+:::
+
+
+# {data-background-color="#FFCD00"}
+
+![](images/UU_logo_2021_EN_RGB_payoff.png)
