@@ -24,7 +24,7 @@ Experiences from the animal sounds project
 -->> Yoda
 :::
 
-## Working with Yoda in 2019
+## Working with Yoda in 2021
 
 ::: {.theme-section}
 - Windows (2x) and MacOS (2x)
